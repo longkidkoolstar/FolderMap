@@ -1,6 +1,5 @@
-```markdown
 # 📁 FolderPeek - Enhanced Folder Structure Viewer
-
+```markdown
 A cross-platform GUI application for visualizing directory structures with advanced viewing modes and hidden file management.
 ```
 ![FolderPeek Screenshot](media/screenshots/ui.png) 
